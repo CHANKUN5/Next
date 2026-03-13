@@ -1,4 +1,4 @@
-# RV4 System - The Sovereign Engineering Manual
+# Sistema RV4 - El Manual de Ingeniería Soberana
 
 ![Next.js 15](https://img.shields.io/badge/Next.js-15.0.0-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript Strict](https://img.shields.io/badge/TypeScript-5.x_Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
