@@ -1,5 +1,10 @@
 import ProjectDetailView from '@/features/projects/ProjectDetailView';
 
-export default function ProjectDetailPage({ params }: { params: { id: string } }) {
-    return <ProjectDetailView id={params.id} />;
+interface ProjectDetailPageProps {
+    params: Promise<{ id: string }>;
+}
+
+export default async function ProjectDetailPage({ params }: ProjectDetailPageProps) {
+    const { id } = await params;
+    return <ProjectDetailView id={id} />;
 }

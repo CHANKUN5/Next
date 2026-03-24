@@ -1,5 +1,3 @@
-'use client';
-
 import { Settings2, Scan, UserCheck, ShieldCheck } from 'lucide-react';
 
 export default function RightActivityPanel() {

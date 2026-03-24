@@ -1,5 +1,3 @@
-'use client';
-
 import { Zap, ArrowUpRight } from 'lucide-react';
 
 export default function RiskComparison() {

@@ -196,6 +196,8 @@ npm run dev
 
 ---
 
+---
+
 ## 📈 9. Roadmap de Optimización (Fases Futuras)
 
 | Fase | Objetivo | Tecnología |
@@ -204,6 +206,17 @@ npm run dev
 | **02** | Data Management | Server Actions + Cache Revalidation |
 | **03** | User Security | JWT httpOnly + Middleware |
 | **04** | Performance | Image Optimization + Dynamic Imports |
+
+---
+
+## 📚 10. Plan de Seguimiento - 4 Días
+
+Se ha completado la migración y capacitación intensiva de los primeros 4 días. Los detalles técnicos y diagramas arquitectónicos se encuentran en la carpeta `/docs`.
+
+1.  **[Día 1: App Router y Rutas](./docs/dia1.md)**: Estructura de carpetas, layouts y rutas dinámicas.
+2.  **[Día 2: UI y Atomización](./docs/dia2.md)**: Tailwind 4, StatCards y componentes de servidor.
+3.  **[Día 3: Estrategia de Renderizado](./docs/dia3.md)**: Clasificación Server vs Client Components.
+4.  **[Día 4: Data Fetching](./docs/dia4.md)**: Patrones de obtención de datos, caché y revalidación.
 
 ---
 *Este manual es la fuente de verdad del proyecto RV4. Cualquier desviación de estos principios debe ser aprobada por el Comité de Arquitectura.*
